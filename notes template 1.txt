@@ -1,0 +1,9 @@
+- background-size : cover --> make the background will be cover to the web
+- ( display: grid;
+    grid-template-columns: repeat(auto-fill , minmax(300px , 1fr));
+    grid-gap: 20px;) --> To make more than one element next to each other
+
+- letter-spacing:-value --> to make text inside other text
+- ?subject in href in any link to make text appear in the link
+- &copy; --> copy right
+- var(variable , fullback-->if there is error in the variable)
